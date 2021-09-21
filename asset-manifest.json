@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/pokidex/static/css/main.28e1954f.chunk.css",
+    "main.js": "/pokidex/static/js/main.bd0f2e2a.chunk.js",
+    "main.js.map": "/pokidex/static/js/main.bd0f2e2a.chunk.js.map",
+    "runtime-main.js": "/pokidex/static/js/runtime-main.2bb132f3.js",
+    "runtime-main.js.map": "/pokidex/static/js/runtime-main.2bb132f3.js.map",
+    "static/js/2.f38944d0.chunk.js": "/pokidex/static/js/2.f38944d0.chunk.js",
+    "static/js/2.f38944d0.chunk.js.map": "/pokidex/static/js/2.f38944d0.chunk.js.map",
+    "index.html": "/pokidex/index.html",
+    "static/css/main.28e1954f.chunk.css.map": "/pokidex/static/css/main.28e1954f.chunk.css.map",
+    "static/js/2.f38944d0.chunk.js.LICENSE.txt": "/pokidex/static/js/2.f38944d0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2bb132f3.js",
+    "static/js/2.f38944d0.chunk.js",
+    "static/css/main.28e1954f.chunk.css",
+    "static/js/main.bd0f2e2a.chunk.js"
+  ]
+}
